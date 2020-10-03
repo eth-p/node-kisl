@@ -1,0 +1,12 @@
+# Node
+node_modules
+
+# Source
+src
+examples
+
+# IDE
+.gitignore
+.idea
+*.iml
+*.tsbuildinfo

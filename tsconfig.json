@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"target": "es6",
+		"sourceMap": true,
+		"incremental": true,
+		"declaration": true,
+		"declarationDir": "types",
+		
+		"strict": true,
+		"importsNotUsedAsValues": "remove",
+		"experimentalDecorators": true,
+		"esModuleInterop": true,
+		
+		"outDir": "prod"
+	},
+	"exclude": [
+		"node_modules",
+		"examples",
+		"prod",
+		"types"
+	]
+}
