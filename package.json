@@ -1,6 +1,6 @@
 {
   "name": "kisl",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A simple, no-bells, no-whistles TypeScript logger.",
   "main": "prod/index.js",
   "typings": "types",
